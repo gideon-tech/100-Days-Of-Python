@@ -35,8 +35,9 @@ The 100 Days of Python challenge is a commitment to code every day for 100 days,
 
 | Day | Project | Topics Covered | Status |
 |-----|---------|----------------|--------|
-| 1 | [Band Name Generator](./Day%201:%20Band%20Name%20Generator%20Project) | Basic I/O, String Concatenation | ✅ Complete |
-| 2 | [Tip Calculator](./Day%202%20Project:%20Tip%20Calculator) | Data Types, Math Operations, User Input | ✅ Complete |
+| 1 | [Band Name Generator](./Day%201:%20Band%20Name%20Generator%20Project) | Basic I/O, String Concatenation | Complete |
+| 2 | [Tip Calculator](./Day%202%20Project:%20Tip%20Calculator) | Data Types, Math Operations, User Input | Complete |
+| 3 | [Treasure Island Game](./) | If statements, Nested If Statements, Multiple Ifs, Logical Operations | Complete |
 
 ## 🚀 Getting Started
 
