@@ -1,4 +1,4 @@
-# 100 Days Of Python 🐍
+# 100 Days Of Python 
 
 Welcome to my **100 Days of Python** coding challenge! This repository documents my journey of learning and practicing Python through daily projects and exercises.
 
